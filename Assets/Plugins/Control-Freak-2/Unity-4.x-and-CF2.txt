@@ -1,0 +1,4 @@
+CF2 Installer will not run automatically and you have to run it manually.
+Go to: Main Menu -> Control Freak 2 -> CF2 Installer.
+Click 'Install'.
+
